@@ -1,0 +1,14 @@
+layout_spectrum: 0.8370186788961291
+typography_spectrum: 0.22366383392363787
+color:
+  brandStrength: 0.8801147469785064
+  lightness: 0.4753869967535138
+  saturation: 0.2049620950128883
+  rhythmicContrast: 0.48844979028217494
+  brandColors:
+    - '#FF5335'
+    - '#B39C85'
+    - '#306E73'
+    - '#3B424D'
+    - '#1D181F'
+name: Westman Portfolio
